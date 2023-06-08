@@ -1,4 +1,3 @@
-yolov7_pose/weights/yolov7-w6-pose.pt
 yolov7_pose/weights/yolov7_w6_pose.pt
 classification_lstm/weights/best.pt
 #classification_lstm/weigths/best_skip.pt
@@ -20,3 +19,4 @@ recog_recording_1.avi
 recog_video.py
 #database/database.db
 video_demo.avi
+
